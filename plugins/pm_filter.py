@@ -451,8 +451,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('🔎Search Movies/Series',url='@TeamisaiminiMovies_bot')
         ], [
-            InlineKeyboardButton('⚡ Invite Link', url='https://t.me/Teamisaimini'),
-            InlineKeyboardButton('📢 Update Channel', url='https://t.me/Teamisaimini')
+            InlineKeyboardButton('⚡ Main Channel', url='https://t.me/Teamisaimini'),
+            InlineKeyboardButton('📢 Request Group', url='https://t.me/+O1_2wAq0V4c4M2I1')
         ], [
             InlineKeyboardButton('😎 Help', callback_data='help'),
             InlineKeyboardButton('😁 About', callback_data='about')
